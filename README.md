@@ -6,6 +6,7 @@ This repository contains my daily HTML and CSS projects.
 - Responsive Navbar
 - Pricing-Table
 - Card Layout using Flexbox
+- Login-UI
 
 ## Tech Stack
 - HTML5
