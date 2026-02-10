@@ -1,14 +1,18 @@
 # HTML & CSS Daily Practice
 
-This repository contains my daily HTML and CSS projects.
+This repository contains my HTML and CSS practice projects.
+Each project focuses on building real-world UI components and responsive layouts.
 
 ## Projects
-- Responsive Navbar
-- Pricing-Table
-- Card Layout using Flexbox
--Responsive image gallery using CSS Grid
-- Login-UI
+
+- Responsive Navbar  
+- Card Layout using Flexbox  
+- Pricing Table  
+- Login UI with floating labels  
+- Responsive Image Gallery using CSS Grid  
+- Responsive Landing Page (Hero Section)
 
 ## Tech Stack
-- HTML5
-- CSS3
+
+- HTML5  
+- CSS3  
