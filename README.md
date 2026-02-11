@@ -11,6 +11,8 @@ Each project focuses on building real-world UI components and responsive layouts
 - Login UI with floating labels  
 - Responsive Image Gallery using CSS Grid  
 - Responsive Landing Page (Hero Section)
+- Responsive Sidebar Layout
+
 
 ## Tech Stack
 
