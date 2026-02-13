@@ -13,6 +13,8 @@ Each project focuses on building real-world UI components and responsive layouts
 - Responsive Landing Page (Hero Section)
 - Responsive Sidebar Layout
 - Responsive Footer UI
+- Profile / Portfolio Card
+
 
 
 
