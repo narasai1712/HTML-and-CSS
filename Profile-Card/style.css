@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+body {
+  height: 100vh;
+  background: #f4f4f4;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  background: #fff;
+  width: 300px;
+  padding: 30px 20px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 10px 25px rgba(0,0,0,0.15);
+}
+
+.avatar {
+  width: 100px;
+  height: 100px;
+  background: #667eea;
+  border-radius: 50%;
+  margin: 0 auto 15px;
+}
+
+.card h2 {
+  margin-bottom: 5px;
+}
+
+.role {
+  color: #777;
+  font-size: 14px;
+  margin-bottom: 15px;
+}
+
+.bio {
+  font-size: 14px;
+  color: #555;
+  margin-bottom: 20px;
+}
+
+.actions {
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+
+.actions button {
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  background: #667eea;
+  color: #fff;
+}
+
+.actions .outline {
+  background: #fff;
+  color: #667eea;
+  border: 1px solid #667eea;
+}
+
+.actions button:hover {
+  opacity: 0.9;
+}
